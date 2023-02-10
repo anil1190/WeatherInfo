@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">CollabraTest</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="signup_title">Signup</string>
+    <string name="user_name_tv">User Name</string>
+    <string name="enter_name_tv">Enter Name</string>
+    <string name="user_email_tv">User Email</string>
+    <string name="enter_email_hint">Enter Email</string>
+    <string name="user_password_tv">User Password</string>
+    <string name="enter_password_hint">Enter Password</string>
+    <string name="confirm_password_tv">Confirm Password</string>
+    <string name="password_mathcer">Password not matched</string>
+    <string name="field_empty">Please fill the empty field</string>
+    <string name="email_validation">Please fill the valid email</string>
+    <string name="registration_success">Registration Success</string>
+    <string name="registration_error">Something went wrong</string>
+    <string name="password_exist">Password Exist,Please change the password</string>
+    <string name="login_title">Login</string>
+    <string name="successful_login">Successful Logged in</string>
+    <string name="password_not_exist">Password or email does not exist</string>
+    <string name="home">Home</string>
+    <string name="current_weather">Current Weather</string>
+    <string name="weather_list">Weather List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="date_time">Current Date And Time</string>
+    <string name="allow_permission">Allow permission for location</string>
+    <string name="required_for_this_app">Allow location permission for the Collabra app</string>
+    <string name="enable_gps">Please Enable GPS</string>
+    <string name="invalid_activity">Invalid Activity</string>
+    <string name="api_error">Something went wrong</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="country_name">Country Name</string>
+    <string name="city_name">City Name</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="temperature">temperature</string>
+    <string name="description">description</string>
+    <string name="user_not_found">User not found, Please register</string>
+</resources>
